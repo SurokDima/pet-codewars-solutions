@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "target": "es6",
+    "sourceMap": true,
+    "allowJs": true,
+    "lib": ["es2016", "dom"],
+    "module": "CommonJS",
+    "esModuleInterop": true
+  }
+}
